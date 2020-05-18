@@ -2,7 +2,8 @@
 Solved by combination(m+n, n)
 Which is equal to combination(m+n, m)
 combination(a,b)=a!/((a-b)!b!)
-The formula used below can be derived from the above formula. I don't know how to type it.
+The formula used below can be derived from the above formula. 
+I don't know how to type it and it seems like basic math so I'm not motivated to try
 '''
 
 def number_of_paths(m,n):
