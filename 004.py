@@ -1,4 +1,6 @@
-
+'''
+Problem: Find the largest palindrome made from the product of two 3-digit numbers.
+'''
 
 x,y=999,979 #y is a multiple of 11
 roof=1

@@ -1,4 +1,6 @@
 '''
+Problem: How many such routes are there through a 20×20 grid?
+
 Solved by combination(m+n, n)
 Which is equal to combination(m+n, m)
 combination(a,b)=a!/((a-b)!b!)

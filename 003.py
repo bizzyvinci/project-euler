@@ -1,6 +1,6 @@
 '''
-Note: this only works for odd numbers
-
+Problem: What is the largest prime factor of the number 600851475143?
+Note: this program only works for odd numbers
 '''
 from math import sqrt
 n=600851475143

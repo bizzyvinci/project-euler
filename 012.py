@@ -1,4 +1,5 @@
-''' 
+'''
+Problem: What is the value of the first triangle number to have over five hundred divisors? 
 NOTE:
 1. n and n+1 are co-prime (they don't have common prime numbers)
 2. d(n)=(a+1)*(b+1)*....*(z+1)

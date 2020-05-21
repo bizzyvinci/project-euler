@@ -1,4 +1,6 @@
-# Find 10001st prime
+'''
+Problem: What is the 10 001st prime number?
+'''
 
 from math import sqrt
 def is_prime(x):

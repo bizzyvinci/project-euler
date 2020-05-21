@@ -1,3 +1,11 @@
+'''
+Problem: By starting at the top of the triangle below and moving to adjacent numbers on the row below, 
+Find the maximum total from top to bottom of the triangle below:
+
+Note: This is very similar to problem 67. Brute force can be used here but not there.
+There's a clever solution
+'''
+
 N= [75,
 	[95,64],
 	[17,47,82],

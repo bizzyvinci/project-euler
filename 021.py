@@ -1,3 +1,7 @@
+'''
+Problem: Evaluate the sum of all the amicable numbers under 10000.
+'''
+
 from math import sqrt, ceil
 
 def find_divisor_sum(num):

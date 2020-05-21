@@ -1,3 +1,7 @@
+'''
+Problem: Find the sum of all the primes below two million.
+'''
+
 from math import sqrt, floor, ceil
 
 # The seive of eratothenes is used and only odd numbers are included in the list for sieving. Even numbers are already excluded.

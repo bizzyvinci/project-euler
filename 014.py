@@ -1,3 +1,10 @@
+'''
+Longest Collatz sequence(conjecture)
+Problem: Which starting number, under one million, produces the longest chain?
+
+NOTE: Once the chain starts the terms are allowed to go above one million.
+'''
+
 from math import floor
 
 # This code is efficient because it saves every n that is solved in a dictionary

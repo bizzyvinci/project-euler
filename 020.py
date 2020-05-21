@@ -1,3 +1,7 @@
+'''
+Problem: Find the sum of the digits in the number 100!
+'''
+
 f=1
 ans=0
 for num in range(1,101):
